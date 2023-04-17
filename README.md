@@ -1,4 +1,4 @@
-# Bootcamp-UW---nosql-challenge
+# Bootcamp-UWA---nosql-challenge
 Module 12 - Challenge
 ### Instructions
 
